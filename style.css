@@ -1,0 +1,23 @@
+body{
+	text-align: center;
+	background: #FF7F7F;
+	color: purple;
+}
+.inp{
+	height: 30px;
+	width: 250px;
+	border: 9px solid;
+	border-color: yellow;
+	background: #FF4F00;
+	border-radius: 50px;
+	color: #840000;
+	box-shadow: rgba(255, 0, 0, 1.0) 10px 15px 5px 7.5px;
+	transition: 5s;
+	text-align: center;
+}
+.lab{
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font: bold;
+}
